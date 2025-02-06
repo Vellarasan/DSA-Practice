@@ -1,6 +1,4 @@
-package io.vels.dsa.basics;
-
-import java.util.ArrayList;
+package io.vels.dsa.binarysearch;
 
 public class BinarySearch {
 
