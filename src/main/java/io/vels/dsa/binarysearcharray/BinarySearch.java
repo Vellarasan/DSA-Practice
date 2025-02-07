@@ -1,4 +1,4 @@
-package io.vels.dsa.binarysearch;
+package io.vels.dsa.binarysearcharray;
 
 public class BinarySearch {
 
